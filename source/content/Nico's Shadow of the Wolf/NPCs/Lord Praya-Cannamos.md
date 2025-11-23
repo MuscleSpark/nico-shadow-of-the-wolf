@@ -1,7 +1,4 @@
----
-house: Stone
-pronouns: She/Her
----
+#HouseOfStone #She/Her
 - The Ironhanded, First Daughter and Graven Heir of Stonelord Hyderad-Cannamos
 - Met her beating up [[Rawan Azar]] for being an Ungrateful sympathizer
 - We managed to defuse the situation but unsure if she likes us

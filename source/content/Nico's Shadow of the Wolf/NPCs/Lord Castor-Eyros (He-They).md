@@ -1,3 +1,3 @@
-- House of Smoke
+#HouseOfSmoke #He/They
+- Great Artist
 - Seemed to like us
-- 

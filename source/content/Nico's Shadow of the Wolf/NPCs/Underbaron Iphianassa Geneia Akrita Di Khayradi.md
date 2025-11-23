@@ -1,4 +1,4 @@
+#HouseOfStone #She/Her 
 - Hero of the Ludran Fields
-- House of Stone
 - Teacher of the tactics syllabus
 - Seemed to warm up to us

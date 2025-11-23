@@ -9,9 +9,9 @@ tags:
 # Happenings
 Late to the Matriculation Ball
 Met the following Faculty:
-- [[Archchancellor Baroness Sigune Zoeva (She-Her)]]
-- [[Underbaron Iphianassa Geneia Akrita Di Khayradi (She-Her)]]
-- [[Stablemaster Imani Rudilis (They-Them)]]
+- [[Archchancellor Baroness Sigune Zoeva]]
+- [[Underbaron Iphianassa Geneia Akrita Di Khayradi]]
+- [[Stablemaster Imani Rudilis]]
 - [[Lord Castor-Eyros (He-They)]]
 
 Afterwards we found [[Lord Praya-Cannamos]] accompanied by [[Count Argo-Laurent]] beating up [[Rawan Azar]] for being an Ungrateful sympathizer.
