@@ -1,3 +1,5 @@
+---
+house: Sand
+---
 - The Wolf's Blade, Storied Son of Tilimsan
-- House of Sand
 - Probably doesn't like us

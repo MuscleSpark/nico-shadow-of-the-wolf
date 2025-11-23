@@ -14,12 +14,12 @@ Met the following Faculty:
 - [[Stablemaster Imani Rudilis (They-Them)]]
 - [[Lord Castor-Eyros (He-They)]]
 
-Afterwards we found [[Lord Praya-Cannamos (She-Her)]] accompanied by [[Count Argo-Laurent]] beating up [[Rawan Azar (She-They)]].
+Afterwards we found [[Lord Praya-Cannamos]] accompanied by [[Count Argo-Laurent]] beating up [[Rawan Azar]] for being an Ungrateful sympathizer.
 
 Decided to mingle and met:
-- [[Principissa Elsa Regelinda Lavera Zoeva (She-Her)]]
+- [[Principissa Elsa Regelinda Lavera Zoeva]]
 - [[Captain Hedros Nadeer]]
 
-Got challenged to a duel by [[Lord Praya-Cannamos (She-Her)]] and [[Count Argo-Laurent]].
+Got challenged to a duel by [[Lord Praya-Cannamos]] and [[Count Argo-Laurent]].
 
 ## [[Combat 01]]

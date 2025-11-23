@@ -1,4 +1,0 @@
-- House of Promise
-- Met her being beat up by [[Lord Praya-Cannamos (She-Her)]] for being an Ungrateful sympathizer
-- Our pragmatism disappointed her
-- 
