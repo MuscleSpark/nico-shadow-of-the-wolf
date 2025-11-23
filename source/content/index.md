@@ -1,5 +1,8 @@
 ---
 title: Nico's Shadow of the Wolf TTRPG Campaign
+tags:
+  - Lancer
+  - ShadowOfTheWolf
 ---
 # Members:
 - Gamemaster (Nico)
