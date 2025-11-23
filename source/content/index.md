@@ -1,9 +1,13 @@
 ---
-title: My GitHub Pages Notebook!
+title: Nico's Shadow of the Wolf TTRPG Campaign
 ---
+# Members:
+- Gamemaster (Nico)
+- Diedrik Eiche (Inf)
+- Nori Capps (Kim)
+- Sera Steinburg (Sophie)
+- Sheng Ji (Beop)
 
-Hello world!
+# Sessions:
+- [[Session 001]]
 
-Write some words here!
-
-Test
