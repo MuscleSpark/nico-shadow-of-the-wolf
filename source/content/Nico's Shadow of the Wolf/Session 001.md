@@ -12,7 +12,7 @@ Met the following Faculty:
 - [[Archchancellor Baroness Sigune Zoeva]]
 - [[Underbaron Iphianassa Geneia Akrita Di Khayradi]]
 - [[Stablemaster Imani Rudilis]]
-- [[Lord Castor-Eyros (He-They)]]
+- [[Lord Castor-Eyros]]
 
 Afterwards we found [[Lord Praya-Cannamos]] accompanied by [[Count Argo-Laurent]] beating up [[Rawan Azar]] for being an Ungrateful sympathizer.
 
