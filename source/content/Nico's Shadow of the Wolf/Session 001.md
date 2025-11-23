@@ -6,7 +6,7 @@ tags:
 
 (Attending members: Diedrik Eiche, Nori Capps, Sera Steinburg, Sheng Ji)
 
-### Happenings
+# Happenings
 Late to the Matriculation Ball
 Met the following Faculty:
 - [[Archchancellor Baroness Sigune Zoeva (She-Her)]]
@@ -21,3 +21,5 @@ Decided to mingle and met:
 - [[Captain Hedros Nadeer]]
 
 Got challenged to a duel by [[Lord Praya-Cannamos (She-Her)]] and [[Count Argo-Laurent]].
+
+## [[Combat 01]]
