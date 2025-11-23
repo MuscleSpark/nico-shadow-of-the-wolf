@@ -8,6 +8,7 @@ tags:
 
 # Happenings
 Late to the Matriculation Ball
+
 Met the following Faculty:
 - [[Archchancellor Baroness Sigune Zoeva]]
 - [[Underbaron Iphianassa Geneia Akrita Di Khayradi]]
