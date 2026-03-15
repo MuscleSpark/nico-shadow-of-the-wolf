@@ -9,7 +9,7 @@ tags:
 - Count Argo-Laurents
 	- Sandman (Elite Veteran Assassin)
 - Lord Aloysius Veredus Flyte
-	- PILGRIM (Mirage)
+	- ~~PILGRIM (Mirage)~~
 - Servant Stark
 	- ~~SOLSTICE (Hornet)~~
 
