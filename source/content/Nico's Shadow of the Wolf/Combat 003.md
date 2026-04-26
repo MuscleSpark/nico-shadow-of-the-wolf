@@ -15,4 +15,4 @@ tags:
 
 Round 2: [[Lord Praya-Cannamos]] says "good luck with your exam!" before our mechs blew up.
 ## Outcome: VICTORY
-### [[Session 004]
+### [[Session 004]]
