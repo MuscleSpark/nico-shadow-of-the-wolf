@@ -13,5 +13,5 @@ tags:
 - Servant Stark
 	- ~~SOLSTICE (Hornet)~~
 
-## Outcome: WIN
+## Outcome: VICTORY
 ### [[Session 002]]

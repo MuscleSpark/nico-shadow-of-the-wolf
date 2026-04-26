@@ -15,5 +15,5 @@ tags:
 - Primor Vivian Reis, 
 	- ~~Goldenrod (Exotic Sentinel) ~~
 
-## Outcome: WIN
+## Outcome: VICTORY
 ### [[Session 003]]
