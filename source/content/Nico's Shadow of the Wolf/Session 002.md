@@ -13,5 +13,5 @@ tags:
 
 [[Primors Vivian & Valentine Reis]] & [[Rawan Azar]] playing Kap Kat. Primors stated they use modified Everests in battle. 
 
-## [[Combat 02]]
+## [[Combat 002]]
 

@@ -13,4 +13,8 @@ tags:
 
 # Sessions:
 - [[Session 001]]
+	- [[Combat 001]]
 - [[Session 002]]
+	- [[Combat 002]]
+- [[Session 003]]
+	- [[Combat 003]]

@@ -18,4 +18,4 @@ Sheng picked Purple Forgive-Me-Forevers (which should not be named) a 300 year-o
 - Sera Steinburg and Nori Capps are sponsored by the House of Stone. They report on how they are doing at school, Saph Steinburg will be in attendance at the next event. If they do well they may be promoted to guardians.
 
 [[Primors Vivian & Valentine Reis]] were acting suspicious during preparations for the exam. 
-## [[Combat 03]]
+## [[Combat 003]]

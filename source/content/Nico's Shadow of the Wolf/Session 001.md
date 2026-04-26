@@ -22,4 +22,4 @@ Decided to mingle and met:
 
 Got challenged to a duel by [[Lord Praya-Cannamos]] and [[Count Argo-Laurent]].
 
-## [[Combat 01]]
+## [[Combat 001]]
