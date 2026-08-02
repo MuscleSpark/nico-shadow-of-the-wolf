@@ -8,6 +8,7 @@ tags:
 - Gamemaster (Nico)
 - Diedrik Eiche (Inf)
 - Nori Capps (Kim)
+- Oona Moos (Trethy)
 - Sera Steinburg (Sophie)
 - Sheng Ji (Beop)
 
