@@ -19,3 +19,6 @@ tags:
 	- [[Combat 002]]
 - [[Session 003]]
 	- [[Combat 003]]
+	- [[Combat 004]]
+- [[Session 004]]
+

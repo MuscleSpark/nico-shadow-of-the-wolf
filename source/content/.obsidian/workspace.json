@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico's Shadow of the Wolf/Session 004.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 004"
+              "title": "index"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico's Shadow of the Wolf/Session 004.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,8 +174,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "index.md",
     "Nico's Shadow of the Wolf/Session 004.md",
+    "index.md",
     "Nico's Shadow of the Wolf/Combat 004.md",
     "Nico's Shadow of the Wolf/Combat 003.md",
     "Nico's Shadow of the Wolf/Session 003.md",
