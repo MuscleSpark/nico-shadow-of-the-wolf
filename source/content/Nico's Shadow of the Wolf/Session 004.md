@@ -27,3 +27,4 @@ Diederik Eiche drew The Titan.
 Sheng Ji drew The Broker.
 Oona Moos drew The Celebrant.
 Nori Capps drew The Fool.
+

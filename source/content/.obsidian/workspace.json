@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Nico's Shadow of the Wolf/Session 004.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session 004"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Nico's Shadow of the Wolf/Session 004.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,13 +174,15 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Nico's Shadow of the Wolf/NPCs/Xenogloss Augur Kahin.md",
     "Nico's Shadow of the Wolf/Session 004.md",
-    "index.md",
     "Nico's Shadow of the Wolf/Combat 004.md",
+    "Nico's Shadow of the Wolf/NPCs/Soto, Stygos Grammaton Monk.md",
+    "index.md",
+    "Untitled.base",
     "Nico's Shadow of the Wolf/Combat 003.md",
     "Nico's Shadow of the Wolf/Session 003.md",
     "Nico's Shadow of the Wolf/Session 002.md",
-    "Untitled.base",
     "Nico's Shadow of the Wolf/Combat 002.md",
     "Nico's Shadow of the Wolf/Combat 001.md",
     "Nico's Shadow of the Wolf/Session 001.md",
