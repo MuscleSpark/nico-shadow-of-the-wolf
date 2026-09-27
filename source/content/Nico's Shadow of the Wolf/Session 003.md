@@ -7,8 +7,11 @@ tags:
 
 # Happenings
 The Brady Bunch decided to go to the aviary.
+
 Diedrik set up a gallery of his bird photos. It did quite well.
+
 [[Rawan Azar]] gave us a charged Core Battery.
+
 [[Captain Hedros Nadeer]] gave us a TFK Tagetes and Andromeda-Pattern Heavy Laser Rifle.
 Sheng picked Purple Forgive-Me-Forevers (which should not be named) a 300 year-old rare strain that has been mass bred for this purpose. Presented them to [[Lady Kiriona]] who was not impressed.
 

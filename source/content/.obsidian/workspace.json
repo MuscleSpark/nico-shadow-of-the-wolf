@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico's Shadow of the Wolf/Session 004.md",
+                "file": "Nico's Shadow of the Wolf/Session 005.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 004"
+              "title": "Session 005"
+            }
+          },
+          {
+            "id": "965488fa67021b7e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico's Shadow of the Wolf/Session 004.md",
+                "file": "Nico's Shadow of the Wolf/Session 005.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,19 +184,20 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Nico's Shadow of the Wolf/NPCs/Xenogloss Augur Kahin.md",
+    "Nico's Shadow of the Wolf/Session 005.md",
+    "Nico's Shadow of the Wolf/NPCs/Rawan Azar.md",
+    "Nico's Shadow of the Wolf/Session 004.md",
+    "Nico's Shadow of the Wolf/Session 003.md",
+    "Nico's Shadow of the Wolf/Session 002.md",
+    "Nico's Shadow of the Wolf/Session 001.md",
     "index.md",
     "Nico's Shadow of the Wolf/Combat 004.md",
-    "Nico's Shadow of the Wolf/Session 004.md",
-    "Nico's Shadow of the Wolf/NPCs/Xenogloss Augur Kahin.md",
     "Nico's Shadow of the Wolf/NPCs/Soto, Stygos Grammaton Monk.md",
     "Untitled.base",
     "Nico's Shadow of the Wolf/Combat 003.md",
-    "Nico's Shadow of the Wolf/Session 003.md",
-    "Nico's Shadow of the Wolf/Session 002.md",
     "Nico's Shadow of the Wolf/Combat 002.md",
     "Nico's Shadow of the Wolf/Combat 001.md",
-    "Nico's Shadow of the Wolf/Session 001.md",
-    "Nico's Shadow of the Wolf/NPCs/Rawan Azar.md",
     "Nico's Shadow of the Wolf/NPCs/Kay.md",
     "Nico's Shadow of the Wolf/NPCs/Lord Aloysius Veredus Flyte.md",
     "Nico's Shadow of the Wolf/NPCs/Lord Castor-Eyros.md",
